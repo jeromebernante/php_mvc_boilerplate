@@ -1,0 +1,16 @@
+{
+  "name": "mvc_name",
+  "short_name": "shortname",
+  "description": "description",
+  "start_url": "index",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "mvc_logo.png",
+      "sizes": "150x150",
+      "type": "images/png"
+    }
+  ]
+}

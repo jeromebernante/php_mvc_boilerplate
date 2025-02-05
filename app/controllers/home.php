@@ -12,5 +12,8 @@ class Home extends MainController
     $this->loadView("anonymous/home", $data);
     exit();
   }
-
+  function getUser()
+  {
+    echo 'getuser';
+  }
 }

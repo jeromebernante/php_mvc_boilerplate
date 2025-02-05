@@ -1,1 +1,1 @@
-console.log('assets/js/guest/home.js loaded');
+console.log('assets/js/anonymous/home.js loaded');
